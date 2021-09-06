@@ -231,6 +231,25 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dvariancetk`][@stdlib/stats/base/dvariancetk]: calculate the variance of a double-precision floating-point strided array using a one-pass textbook algorithm.
+-   [`@stdlib/stats/base/dnanvariance`][@stdlib/stats/base/dnanvariance]: calculate the variance of a double-precision floating-point strided array ignoring NaN values.
+-   [`@stdlib/stats/base/nanvariancetk`][@stdlib/stats/base/nanvariancetk]: calculate the variance of a strided array ignoring NaN values and using a one-pass textbook algorithm.
+-   [`@stdlib/stats/base/snanvariancetk`][@stdlib/stats/base/snanvariancetk]: calculate the variance of a single-precision floating-point strided array ignoring NaN values and using a one-pass textbook algorithm.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -293,6 +312,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 [@ling:1974a]: https://doi.org/10.2307/2286154
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dvariancetk]: https://github.com/stdlib-js/stats-base-dvariancetk
+
+[@stdlib/stats/base/dnanvariance]: https://github.com/stdlib-js/stats-base-dnanvariance
+
+[@stdlib/stats/base/nanvariancetk]: https://github.com/stdlib-js/stats-base-nanvariancetk
+
+[@stdlib/stats/base/snanvariancetk]: https://github.com/stdlib-js/stats-base-snanvariancetk
+
+<!-- </related-links> -->
 
 </section>
 
