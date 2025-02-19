@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-16)
+## Unreleased (2025-02-19)
+
+<section class="features">
+
+### Features
+
+-   [`1511a4d`](https://github.com/stdlib-js/stdlib/commit/1511a4d9ca7e2552a8e6e50055cb37fe0f5d99de) - add C ndarray interface and refactor implementation for `stats/base/dnanvariancetk` [(#4847)](https://github.com/stdlib-js/stdlib/pull/4847)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`1511a4d`](https://github.com/stdlib-js/stdlib/commit/1511a4d9ca7e2552a8e6e50055cb37fe0f5d99de) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanvariancetk` [(#4847)](https://github.com/stdlib-js/stdlib/pull/4847) _(by Prashant Kumar Yadav)_
 -   [`ebe88f3`](https://github.com/stdlib-js/stdlib/commit/ebe88f3d87f2e3f0dc9e070bd59e7b9068e483dd) - **chore:** fix C lint errors [(#5206)](https://github.com/stdlib-js/stdlib/pull/5206) _(by GK Bishnoi)_
 -   [`2bde98a`](https://github.com/stdlib-js/stdlib/commit/2bde98a2369cf34cd1bd167f27c7d6ca1bd1aed5) - **refactor:** update `stats/base/dnanvariancetk` native addon from C++ to C [(#4204)](https://github.com/stdlib-js/stdlib/pull/4204) _(by Neeraj Pathak)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -41,12 +52,13 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   GK Bishnoi
 -   Neeraj Pathak
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
